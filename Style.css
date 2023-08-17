@@ -1,0 +1,16 @@
+.Foam {
+    text-align: center;
+    padding: 2px;
+    margin: 5%;
+    border-width: 5px;
+    border-color: #373232;
+    border-style: solid;
+    background-color: aliceblue;
+    line-height: 25px
+   
+
+}
+#champ {
+    background-color: bisque;
+    text-transform: capitalize;
+}
